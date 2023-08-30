@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "departmentName": "Pharma",
+      "departmentManager": "ahsan",
+      "employeeName": "mauzam",
+      "id": 8
+    },
+    {
+      "employeeName": "ds",
+      "employeeEmail": "sad12@gmail",
+      "departmentName": "Finance",
+      "departmentManager": "ahmed",
+      "id": 15
+    },
+    {
+      "employeeName": "Mohammed",
+      "employeeEmail": "mojd@gmail.com",
+      "departmentName": "Finance",
+      "departmentManager": "ahmed",
+      "id": 16
+    },
+    {
+      "departmentName": "Telecom",
+      "departmentManager": "Tariq",
+      "employeeName": "ahmed",
+      "id": 18
+    },
+    {
+      "departmentName": "IT",
+      "departmentManager": "Ahmed",
+      "employeeName": "Zakir",
+      "id": 19
+    },
+    {
+      "employeeName": "",
+      "employeeEmail": "",
+      "departmentName": "",
+      "id": 20
+    }
+  ]
+}
